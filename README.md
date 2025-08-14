@@ -12,6 +12,8 @@ A lightweight text editor written in C++ using SDL2 and SDL_ttf. Features includ
 # Build & Run
 
 Make sure SDL2 and SDL_ttf are installed. Then compile with your C++ compiler:
+
+*On first launch, the text and line numbers may not display correctly. Move the font size slider once to refresh all textures.*
 ```
 g++ main.cpp editor_core.cpp -o editor.exe -mconsole \
 -IC:\msys64\mingw64\include\SDL2 \
@@ -26,3 +28,4 @@ g++ main.cpp editor_core.cpp -o editor.exe -mconsole \
 
  - Change fonts and colors via the configuration
  -  Scroll & change font-size using scrollbars
+    
