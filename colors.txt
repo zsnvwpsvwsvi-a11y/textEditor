@@ -1,0 +1,6 @@
+c:/windows/fonts/arial.TTf
+background 213 21/6 2-20    however the first line is inmportant donot touch it
+forground  255 2*55 100  all the color should be in r g b and each one has to have three digits even zero
+textcolor 005 000 000                  btw all this doesn't matter as long as you don't touch the numbers
+currentline coloor 132, 179, 227
+linenumber color 058   061 053
